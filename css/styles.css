@@ -9,15 +9,15 @@
 }
 
 img {
-  width: 200px;
+  width: 250px;
 }
 
 body {
   text-align: center;
-  background-color: red;
+  background-color: blue;
 }
 
 p {
-  color: blue;
-  font-size: 15pt;
+  color: red;
+  font-size: 30pt;
 }
