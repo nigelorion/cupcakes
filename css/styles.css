@@ -2,3 +2,22 @@
   color: red;
   font-style: italic;
 }
+
+.best {
+  color: #80ff00;
+  font-size: 25pt;
+}
+
+img {
+  width: 200px;
+}
+
+body {
+  text-align: center;
+  background-color: red;
+}
+
+p {
+  color: blue;
+  font-size: 15pt;
+}
